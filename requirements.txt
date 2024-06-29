@@ -9,7 +9,7 @@ charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
 coloredlogs==15.0.1
-comtypes==1.4.4
+comtypes
 contourpy==1.2.1
 cycler==0.12.1
 exceptiongroup==1.2.1
